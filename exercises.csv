@@ -1,0 +1,126 @@
+exercise_id,name,type,muscle_group,equipment
+1,Barbell Squat,Strength,Quadriceps,Barbell
+2,Push-Ups,Strength,Chest,Bodyweight
+3,Deadlift,Strength,Hamstrings,Barbell
+4,Bicep Curl,Hypertrophy,Biceps,Dumbbells
+5,Yoga Downward Dog,Flexibility,Full Body,Yoga Mat
+6,Running,Cardio,Legs,Treadmill
+7,Pull-Ups,Strength,Back,Pull-Up Bar
+8,Plank,Strength,Core,Bodyweight
+9,Lateral Raises,Hypertrophy,Shoulders,Dumbbells
+10,Pilates Roll-Up,Flexibility,Core,Pilates Mat
+11,Burpees,Cardio,Full Body,Bodyweight
+12,Leg Press,Hypertrophy,Quadriceps,Leg Press Machine
+13,Hamstring Stretch,Flexibility,Hamstrings,Bodyweight
+14,Rowing Machine,Cardio,Back,Rowing Machine
+15,Bench Press,Strength,Chest,Barbell
+16,Back Squat,Strength,Quadriceps,Barbell
+17,Overhead Press,Strength,Shoulders,Barbell
+18,Romanian Deadlift,Strength,Hamstrings,Barbell
+19,Front Squat,Strength,Quadriceps,Barbell
+20,Weighted Pull-Ups,Strength,Back,Pull-Up Bar + Weight Belt
+21,Dips,Strength,Chest,Parallel Bars
+22,Farmer’s Walk,Strength,Forearms,Dumbbells/Kettlebells
+23,Zercher Squat,Strength,Quadriceps,Barbell
+24,Clean & Jerk,Strength,Full Body,Barbell
+25,Snatch,Strength,Full Body,Barbell
+26,Bulgarian Split Squat,Strength,Quadriceps,Dumbbells
+27,Incline Bench Press,Strength,Chest,Barbell
+28,Pendlay Row,Strength,Back,Barbell
+29,Hanging Leg Raise,Strength,Core,Pull-Up Bar
+30,Kettlebell Swing,Strength,Glutes,Kettlebell
+31,Dumbbell Fly,Hypertrophy,Chest,Dumbbells
+32,Leg Extension,Hypertrophy,Quadriceps,Machine
+33,Cable Crossover,Hypertrophy,Chest,Cable Machine
+34,Preacher Curl,Hypertrophy,Biceps,EZ Bar + Bench
+35,Tricep Rope Pushdown,Hypertrophy,Triceps,Cable Machine
+36,Seated Calf Raise,Hypertrophy,Calves,Machine
+37,Lat Pulldown (Wide Grip),Hypertrophy,Back,Cable Machine
+38,Hack Squat,Hypertrophy,Quadriceps,Machine
+39,Incline Dumbbell Press,Hypertrophy,Chest,Dumbbells
+40,Hammer Curl,Hypertrophy,Biceps,Dumbbells
+41,Face Pull,Hypertrophy,Shoulders,Cable Machine
+42,Seated Shoulder Press,Hypertrophy,Shoulders,Dumbbells
+43,Machine Chest Press,Hypertrophy,Chest,Machine
+44,Concentration Curl,Hypertrophy,Biceps,Dumbbell
+45,Glute Bridge,Hypertrophy,Glutes,Barbell
+46,Sprint Intervals,Cardio,Legs,Track/Treadmill
+47,Jump Rope,Cardio,Calves,Jump Rope
+48,Stairmaster,Cardio,Legs,Stair Machine
+49,Cycling (HIIT),Cardio,Legs,Stationary Bike
+50,Rowing (500m Sprints),Cardio,Full Body,Rowing Machine
+51,Swimming (Freestyle),Cardio,Full Body,Pool
+52,Box Jumps,Cardio,Legs,Plyo Box
+53,Battle Ropes,Cardio,Shoulders,Battle Ropes
+54,Elliptical,Cardio,Legs,Elliptical Machine
+55,Hill Sprints,Cardio,Legs,Outdoor Hill
+56,Seated Forward Fold,Flexibility,Hamstrings,Yoga Mat
+57,Pigeon Pose,Flexibility,Hips,Yoga Mat
+58,Cat-Cow Stretch,Flexibility,Spine,Yoga Mat
+59,Thoracic Spine Rotation,Flexibility,Back,Foam Roller
+60,Standing Quad Stretch,Flexibility,Quadriceps,Bodyweight
+61,Child’s Pose,Flexibility,Back,Yoga Mat
+62,Shoulder Dislocates,Flexibility,Shoulders,Resistance Band
+63,Lizard Pose,Flexibility,Hips,Yoga Mat
+64,Cobra Stretch,Flexibility,Spine,Yoga Mat
+65,Dynamic Leg Swings,Flexibility,Hamstrings,Bodyweight
+66,Muscle-Ups,Strength,Full Body,Pull-Up Bar
+67,Pistol Squats,Strength,Quadriceps,Bodyweight
+68,Handstand Push-Ups,Strength,Shoulders,Bodyweight
+69,L-Sit Hold,Strength,Core,Parallel Bars
+70,Dragon Flag,Strength,Core,Bench
+71,Back Squat,Strength,Quadriceps,Barbell
+72,Overhead Press,Strength,Shoulders,Barbell
+73,Romanian Deadlift,Strength,Hamstrings,Barbell
+74,Front Squat,Strength,Quadriceps,Barbell
+75,Weighted Pull-Ups,Strength,Back,Pull-Up Bar + Weight Belt
+76,Dips,Strength,Chest,Parallel Bars
+77,Farmer’s Walk,Strength,Forearms,Dumbbells/Kettlebells
+78,Zercher Squat,Strength,Quadriceps,Barbell
+79,Clean & Jerk,Strength,Full Body,Barbell
+80,Snatch,Strength,Full Body,Barbell
+81,Bulgarian Split Squat,Strength,Quadriceps,Dumbbells
+82,Incline Bench Press,Strength,Chest,Barbell
+83,Pendlay Row,Strength,Back,Barbell
+84,Hanging Leg Raise,Strength,Core,Pull-Up Bar
+85,Kettlebell Swing,Strength,Glutes,Kettlebell
+86,Dumbbell Fly,Hypertrophy,Chest,Dumbbells
+87,Leg Extension,Hypertrophy,Quadriceps,Machine
+88,Cable Crossover,Hypertrophy,Chest,Cable Machine
+89,Preacher Curl,Hypertrophy,Biceps,EZ Bar + Bench
+90,Tricep Rope Pushdown,Hypertrophy,Triceps,Cable Machine
+91,Seated Calf Raise,Hypertrophy,Calves,Machine
+92,Lat Pulldown (Wide Grip),Hypertrophy,Back,Cable Machine
+93,Hack Squat,Hypertrophy,Quadriceps,Machine
+94,Incline Dumbbell Press,Hypertrophy,Chest,Dumbbells
+95,Hammer Curl,Hypertrophy,Biceps,Dumbbells
+96,Face Pull,Hypertrophy,Shoulders,Cable Machine
+97,Seated Shoulder Press,Hypertrophy,Shoulders,Dumbbells
+98,Machine Chest Press,Hypertrophy,Chest,Machine
+99,Concentration Curl,Hypertrophy,Biceps,Dumbbell
+100,Glute Bridge,Hypertrophy,Glutes,Barbell
+101,Sprint Intervals,Cardio,Legs,Track/Treadmill
+102,Jump Rope,Cardio,Calves,Jump Rope
+103,Stairmaster,Cardio,Legs,Stair Machine
+104,Cycling (HIIT),Cardio,Legs,Stationary Bike
+105,Rowing (500m Sprints),Cardio,Full Body,Rowing Machine
+106,Swimming (Freestyle),Cardio,Full Body,Pool
+107,Box Jumps,Cardio,Legs,Plyo Box
+108,Battle Ropes,Cardio,Shoulders,Battle Ropes
+109,Elliptical,Cardio,Legs,Elliptical Machine
+110,Hill Sprints,Cardio,Legs,Outdoor Hill
+111,Seated Forward Fold,Flexibility,Hamstrings,Yoga Mat
+112,Pigeon Pose,Flexibility,Hips,Yoga Mat
+113,Cat-Cow Stretch,Flexibility,Spine,Yoga Mat
+114,Thoracic Spine Rotation,Flexibility,Back,Foam Roller
+115,Standing Quad Stretch,Flexibility,Quadriceps,Bodyweight
+116,Child’s Pose,Flexibility,Back,Yoga Mat
+117,Shoulder Dislocates,Flexibility,Shoulders,Resistance Band
+118,Lizard Pose,Flexibility,Hips,Yoga Mat
+119,Cobra Stretch,Flexibility,Spine,Yoga Mat
+120,Dynamic Leg Swings,Flexibility,Hamstrings,Bodyweight
+121,Muscle-Ups,Strength,Full Body,Pull-Up Bar
+122,Pistol Squats,Strength,Quadriceps,Bodyweight
+123,Handstand Push-Ups,Strength,Shoulders,Bodyweight
+124,L-Sit Hold,Strength,Core,Parallel Bars
+125,Dragon Flag,Strength,Core,Bench
